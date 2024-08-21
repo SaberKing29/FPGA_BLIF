@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Oct 16 17:02:53 2023
+# Process ID: 17592
+# Current directory: E:/code/luoyuedong/fpga/blif/blif_10_16/ov5460_hdmi_blif/ov5460_hdmi_blif.runs/impl_1
+# Command line: vivado.exe -log ov5640_hdmi_bli_filter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ov5640_hdmi_bli_filter.tcl -notrace
+# Log file: E:/code/luoyuedong/fpga/blif/blif_10_16/ov5460_hdmi_blif/ov5460_hdmi_blif.runs/impl_1/ov5640_hdmi_bli_filter.vdi
+# Journal file: E:/code/luoyuedong/fpga/blif/blif_10_16/ov5460_hdmi_blif/ov5460_hdmi_blif.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source ov5640_hdmi_bli_filter.tcl -notrace

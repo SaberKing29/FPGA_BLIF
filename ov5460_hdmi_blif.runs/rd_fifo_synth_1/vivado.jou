@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jun 16 11:44:40 2020
+# Process ID: 1572
+# Current directory: C:/Users/xiazeng/Desktop/xiaoyin/xiaoyin_camera/check/new/ov5640_hdmi_median_filter/ov5640_hdmi_median_filter.runs/rd_fifo_synth_1
+# Command line: vivado.exe -log rd_fifo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rd_fifo.tcl
+# Log file: C:/Users/xiazeng/Desktop/xiaoyin/xiaoyin_camera/check/new/ov5640_hdmi_median_filter/ov5640_hdmi_median_filter.runs/rd_fifo_synth_1/rd_fifo.vds
+# Journal file: C:/Users/xiazeng/Desktop/xiaoyin/xiaoyin_camera/check/new/ov5640_hdmi_median_filter/ov5640_hdmi_median_filter.runs/rd_fifo_synth_1\vivado.jou
+#-----------------------------------------------------------
+source rd_fifo.tcl -notrace
